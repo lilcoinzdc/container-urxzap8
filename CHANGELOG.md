@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Nov 24 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@lilcoinzdc](https://github.com/lilcoinzdc))
+
+#### Authors: 1
+
+- [@lilcoinzdc](https://github.com/lilcoinzdc)
+
+---
+
 # v0.0.1 (Fri Nov 24 2023)
 
 :tada: This release contains work from a new contributor! :tada:
