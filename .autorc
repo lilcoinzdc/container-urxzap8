@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "lilcoinzdc",
+  "repo": "container-urxzap8",
+  "name": "lilcoinzdc",
+  "email": "lilcoinzdc1@gmail.com",
+}
